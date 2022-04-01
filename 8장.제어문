@@ -6,13 +6,13 @@ if 문의 조건문은 불리언 값으로 평가되어야한다. 만약 if문�
 ```javascript
 switch(표현식) {
 	case 표현식1:
-     switch문의 표현식과 표현식1이 일치하면 실행될 문;
+     //switch문의 표현식과 표현식1이 일치하면 실행될 문;
      break;
     case 표현식2:
-     switch문의 표현식과 표현식2이 일치하면 실행될 문;
+     //switch문의 표현식과 표현식2이 일치하면 실행될 문;
      break; 
     default:
-     switch문의 표현식과 일치하는 case문이 없을 때 실행될 문;
+     //switch문의 표현식과 일치하는 case문이 없을 때 실행될 문;
 }
 ```
 
